@@ -26,7 +26,7 @@ Output:
 Explanation:
 Testcase 1: Given array : 1 2 3 5. Missing element is 4.
 
-/*
+*/
 #include <stdio.h>
 
 
